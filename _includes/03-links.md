@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+you can check out my other talks https://www.youtube.com/watch?v=Gt9WzC4WDEA
+
