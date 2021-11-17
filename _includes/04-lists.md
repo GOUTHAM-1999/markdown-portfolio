@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+A list of mine:
+- 🐱
+- 🐶
+- 🐯
+- 🙊
+
+In order these are favourite:
+
+1.cricket
+2.badminton
