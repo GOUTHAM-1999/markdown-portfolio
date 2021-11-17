@@ -1,3 +1,5 @@
-I like to "code" and i like to love play cricket
+I like to **code** and i like to love play _cricket_
 
-I live in "coding" and i like to see my future in a good position
+I live in **coding** and 
+
+I like to see my future in a good_position
